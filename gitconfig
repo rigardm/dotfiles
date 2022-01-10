@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marion.rigard@gmail.com
+	name = Marion Rigard Cerison
